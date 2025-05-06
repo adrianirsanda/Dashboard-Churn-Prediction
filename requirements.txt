@@ -1,0 +1,7 @@
+streamlit==1.45.0
+pandas==2.2.3
+numpy
+scikit-learn
+imbalance-learn
+xgboost
+joblib
